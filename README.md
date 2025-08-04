@@ -1,2 +1,2 @@
 # Work-in-Progress
-Work in Progress - will be filled out soon!
+Hi! Welcome to my GitHub, this is a work in progress - will be filled out soon!
